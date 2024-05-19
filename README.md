@@ -11,13 +11,13 @@ HDR: <i>HDR10/HLG</i><br>
 Tuner: <i>DVB-C (cabo)</i><br>
 Versão: <i>LibreELEC 12</i><br>
 Kernel: <i>v6.1.79</i><br>
-Kodi: <i>Omega - v21</i><br>
+Kodi: <i>P - v22</i><br>
 Status: <i>Andamento</i><br>
 
 ## :information_source: Instalação <br>
 
 A instalação é similar a do Debian/E2. E roda no SD.<br>
-Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELEC/LibreELEC/releases/tag/11.80.6.2024.04.27).
+Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELEC/LibreELEC/releases/tag/12.80.0.2024.05.19).
 
 1. Aplique a atualização .upk no Android
 2. Grave a imagem do LibreELEC no SD usando dd (Linux) ou Win32DiskImager (Windows - descompacte img.gz e use o programa).<br>

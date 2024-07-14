@@ -3,12 +3,12 @@
     "prettyname_regex": "^LibreELEC-.*-(devel.+)\\.",
     "project": {
       "Hisilicon.arm": {
-        "displayName": "Atto Pixel LE",
+        "displayName": "Atto Pixel LE (13)",
         "releases": {
           "0": {
             "file": {
-              "name": "LibreELEC-Hisilicon.arm-13.0-devel-20240519170059-63e6efb.tar",
-              "folder": "12.80.0.2024.05.19"
+              "name": "LibreELEC-Hisilicon.arm-13.0-devel-20240713220627-11dcc11.tar",
+              "folder": "12.80.0.2024.07.14"
             }
           }
         }

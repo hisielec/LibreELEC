@@ -10,8 +10,8 @@ Decodificação de vídeo (via hardware): <i>MPEG-4 / MPEG-2 / H.264 / H.265 / V
 HDR: <i>HDR10/HLG</i><br>
 Tuner: <i>DVB-C (cabo)</i><br>
 Versão: <i>LibreELEC 12</i><br>
-Kernel: <i>v6.1.79</i><br>
-Kodi: <i>P - v22</i><br>
+Kernel: <i>v6.1.95</i><br>
+Kodi: <i>Piers - v22</i><br>
 Status: <i>Andamento</i><br>
 
 ## :information_source: Instalação <br>

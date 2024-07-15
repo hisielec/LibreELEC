@@ -1,0 +1,20 @@
+{
+    "LibreELEC-13.0": {
+        "canary": 21,
+        "prettyname_regex": "^LibreELEC-.*-(devel-.+)\\.",
+        "project": {
+            "Hisilicon.arm": {
+                "displayName": "Pixel Plus [LibreELEC 13]",
+                "releases": {
+                    "0": {
+                        "file": {
+                            "name": "LibreELEC-Hisilicon.arm-13.0-devel-20240713220627-11dcc11.tar",
+                            "subpath": "12.80.0.2024.07.14"
+                        }
+                    }
+                }
+            }
+        },
+        "url": "https://releases.rootcoder.xyz/download/"
+    }
+}

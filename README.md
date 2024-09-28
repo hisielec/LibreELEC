@@ -9,7 +9,7 @@ SoC: <i>Hi3798Cv200</i><br>
 Decodificação de vídeo (via hardware): <i>MPEG-4 / MPEG-2 / H.264 / H.265 / VC1</i><br>
 HDR: <i>HDR10/HLG</i><br>
 Tuner: <i>DVB-C (cabo)</i><br>
-Versão: <i>LibreELEC 12</i><br>
+Versão: <i>LibreELEC 13</i><br>
 Kernel: <i>v6.1.95</i><br>
 Kodi: <i>Piers - v22</i><br>
 Status: <i>Andamento</i><br>
@@ -38,7 +38,7 @@ Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELE
 
 ## :heavy_check_mark: Add-ons necessários
 * Tvheadend HTSP Client - pvr.hts
-* Tvheadend Server 4.3 (Alpha) - service.tvheadend43
+* Tvheadend Server 4.3 - service.tvheadend43
 * OSCam - service.softcam.oscam
 * TVheadend Setup
 

@@ -10,14 +10,14 @@ Decodificação de vídeo (via hardware): <i>MPEG-4 / MPEG-2 / H.264 / H.265 / V
 HDR: <i>HDR10/HLG</i><br>
 Tuner: <i>DVB-C (cabo)</i><br>
 Versão: <i>LibreELEC 13</i><br>
-Kernel: <i>v6.1.95</i><br>
+Kernel: <i>v6.1.115</i><br>
 Kodi: <i>Piers - v22</i><br>
 Status: <i>Andamento</i><br>
 
 ## :information_source: Instalação <br>
 
 A instalação é similar a do Debian/E2. E roda no SD.<br>
-Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELEC/LibreELEC/releases/tag/12.80.1.2024.09.28)
+Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELEC/LibreELEC/releases/tag/12.80.1.2024.11.05)
 
 1. Aplique a atualização .upk no Android
 2. Grave a imagem do LibreELEC no SD usando dd (Linux) ou Win32DiskImager (Windows - descompacte img.gz e use o programa).<br>
